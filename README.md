@@ -1,6 +1,6 @@
 # AISVS Helper Repo
 
-This repo helps teams use OWASP AISVS v1.0 in real AI work.
+This repo helps teams use OWASP AISVS v1.0 in AI enabled projects.
 
 You can use it when you design systems and write code and review changes and run security checks.
 
